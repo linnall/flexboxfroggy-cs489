@@ -4,6 +4,5 @@ improvement:
 feature:
   - head-branch: ["feature"]
 
-fix:
-  - head-branch: ["fix"]
-# test changes
+bugfix:
+  - head-branch: ["bugfix"]
