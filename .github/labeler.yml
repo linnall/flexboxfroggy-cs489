@@ -1,5 +1,5 @@
-refactor:
-  - head-branch: ["refactor"]
+improvement:
+  - head-branch: ["improvement"]
 
 feature:
   - head-branch: ["feature"]
