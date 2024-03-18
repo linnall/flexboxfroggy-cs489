@@ -1,0 +1,8 @@
+refactor:
+  - head-branch: ["refactor"]
+
+feature:
+  - head-branch: ["feature"]
+
+fix:
+  - head-branch: ["fix"]
